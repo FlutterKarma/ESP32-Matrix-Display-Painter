@@ -1,6 +1,8 @@
-# matrixdisplaypainter
+# ESP32 matrix display painter using Flutter
 
-A new Flutter project.
+
+<img src="/screenshots/demo.png" Height="400" >
+<img src="/screenshots/circuit.png" Height="400" >
 
 ## Getting Started
 
